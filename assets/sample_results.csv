@@ -1,0 +1,3 @@
+rank,filename,severity,max_confidence,broken_count,flashover_count,ground_truth_defect
+1,000006140.jpg,CRITICAL,0.778,1,0,yes
+2,100190.jpg,WARNING,0.851,0,3,yes
